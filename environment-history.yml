@@ -1,0 +1,10 @@
+name: regressions
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - ipywidgets
+  - spacy
+  - cupy
+prefix: /home/users/blasota/anaconda3/envs/regressions
